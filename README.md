@@ -35,7 +35,7 @@ A Pokedex é um projeto web dinâmico e visualmente atraente, desenvolvido com H
 
 [![Git Status](https://github-readme-stats.vercel.app/api?username=AlissonNantet&show_icons=true&theme=goldenrod)](https://github.com/AlissonNantet)
 
-## Outros Interesses
+<!-- ## Outros Interesses -->
 
 <!-- Além do desenvolvimento web, tenho interesse em [outros interesses relacionados ou não ao desenvolvimento]. -->
 
