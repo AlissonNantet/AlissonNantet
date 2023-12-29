@@ -39,4 +39,4 @@ A Pokedex é um projeto web dinâmico e visualmente atraente, desenvolvido com H
 
 <!-- Além do desenvolvimento web, tenho interesse em [outros interesses relacionados ou não ao desenvolvimento]. -->
 
-Fique à vontade para entrar em contato para colaborações, oportunidades ou apenas para trocar ideias e experiências!
+### Fique à vontade para entrar em contato para colaborações, oportunidades ou apenas para trocar ideias e experiências!
