@@ -29,7 +29,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências incríveis par
 <!-- - [![Contribuição 1](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=contribuicao-1&theme=goldenrod)](link para a contribuição)
 - [![Contribuição 2](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=contribuicao-2&theme=goldenrod)](link para a contribuição) -->
 
-[![Git Status](https://github-readme-stats.vercel.app/api?username=AlissonNantet&show_icons=true&theme=goldenrod)](https://github.com/AlissonNantet)
+<!-- [![Git Status](https://github-readme-stats.vercel.app/api?username=AlissonNantet&show_icons=true&theme=goldenrod)](https://github.com/AlissonNantet) -->
 
 <!-- ## Outros Interesses -->
 
