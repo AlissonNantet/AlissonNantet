@@ -22,7 +22,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências incríveis par
 
 |[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=AlissonNantet&repo=pokedex&theme=goldenrod)](https://github.com/AlissonNantet/Pokedex) | [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=AlissonNantet&repo=angular-blog-animal&theme=goldenrod)](https://github.com/AlissonNantet/angular-blog-animal) |
 |:-:|:-:|
-| A Pokedex é um projeto web dinâmico e visualmente atraente, desenvolvido com HTML, CSS e JavaScript. | Um blog interativo e dinâmico utilizando Angular para a construção do front end, proporcionando uma experiência de usuário moderna e responsiva. |
+| A Pokedex é um projeto web dinâmico e visualmente atraente, desenvolvido com HTML, CSS e JavaScript. | Construa um blog moderno e envolvente com interface dinâmica usando Angular para front-end, garantindo uma experiência de usuário fluida. |
 
 <!-- ## Contribuições -->
 
